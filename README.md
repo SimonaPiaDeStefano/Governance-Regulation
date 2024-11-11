@@ -1,5 +1,6 @@
 # Governance-Regulation
 Explore policies and frameworks vital for regulating cyber security in an organisation.
+
 📘 Obiettivi di Apprendimento
 Governance e Regolamentazione nella Cybersecurity: Comprendere il ruolo e l'importanza della governance e delle normative nella sicurezza delle informazioni.
 Laws & Regulations: Acquisire familiarità con le principali leggi internazionali, normative, politiche e linee guida in ambito cybersecurity.
