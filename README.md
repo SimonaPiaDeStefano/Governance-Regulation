@@ -35,6 +35,8 @@ Esempi di strumenti per l'audit, il monitoraggio delle minacce e la risposta agl
 - Regolazione: Regola o legge imposta per garantire la conformità e proteggere contro danni.
 - Conformità: Aderenza a leggi, regolamenti e standard applicabili all’organizzazione o sistema.
 
+![image](https://github.com/user-attachments/assets/b090e965-a15e-43df-a160-734ca5036aed)
+
 📂 Concetti Fondamentali:
 1. Governance della Sicurezza delle Informazioni: La governance include struttura, politiche e procedure per proteggere la riservatezza, l'integrità e la disponibilità dei dati. È cruciale per:
    - Strategia: Allineare la strategia di sicurezza alle finalità aziendali.
@@ -53,8 +55,6 @@ Esempi di strumenti per l'audit, il monitoraggio delle minacce e la risposta agl
    - Conformità Normativa: Previene multe, danni reputazionali e penalità legate alla non conformità.
    - Allineamento con gli Obiettivi Aziendali: Integra la sicurezza nelle strategie aziendali per un impatto positivo.
    - Vantaggio Competitivo: La conformità può migliorare la reputazione aziendale e aumentare la fiducia dei clienti.
-
-![image](https://github.com/user-attachments/assets/b090e965-a15e-43df-a160-734ca5036aed)
 
 ![image](https://github.com/user-attachments/assets/6c83f00b-cf1b-416d-a37e-8e1207dd8962)
 
@@ -204,21 +204,21 @@ Queste pratiche migliori per la conformità a NIST 800-53 consentono alle organi
 
 ![image](https://github.com/user-attachments/assets/a280cb09-d58d-42e1-b9d4-c2b1d992135a)
     
-✅ Benefici di ISO 27001
+✅ Benefici di ISO 27001:
 - Un ISMS basato su ISO 27001 richiede una progettazione e una gestione attente. Comporta la valutazione completa delle procedure di sicurezza dell’organizzazione, l'identificazione di lacune e la realizzazione di una valutazione approfondita dei rischi. Alcuni degli ambiti che devono essere allineati con i requisiti di ISO 27001 includono il controllo degli accessi e la risposta agli incidenti. Il supporto della leadership e l'allocazione delle risorse sono essenziali per il successo dell'implementazione dell'ISMS, che deve essere regolarmente monitorato, misurato e sviluppato per garantire la sua efficacia.
 
-🏢 Service Organisation Control 2 (SOC 2)
+🏢 Service Organisation Control 2 (SOC 2):
 - Il SOC 2 è un framework di conformità e auditing sviluppato dall'American Institute of Certified Public Accountants (AICPA). Si concentra sulla valutazione dell’efficacia dei controlli di sicurezza di un'azienda, basandosi sulla triade CIA (Confidenzialità, Integrità, Disponibilità). SOC 2 è particolarmente importante per i fornitori di servizi che trattano dati sensibili e devono dimostrare di aver implementato controlli adeguati per proteggere i sistemi e le informazioni.
 
-🔍 Punti Chiave di SOC 2
+🔍 Punti Chiave di SOC 2:
 - Obiettivo: SOC 2 valuta i controlli di una società riguardo la sicurezza, privacy e disponibilità dei dati.
 - Auditor indipendenti: Gli audit SOC 2 sono condotti da revisori indipendenti che verificano che i controlli di sicurezza soddisfino i criteri stabiliti.
 - Contenuti del report: Il report SOC 2 fornisce informazioni sulla sicurezza e privacy dell’organizzazione, che possono essere condivise con clienti, stakeholder e regolatori.
   
-🛠️ Protezione delle informazioni con SOC 2
+🛠️ Protezione delle informazioni con SOC 2:
 - L'audit SOC 2 ha lo scopo di garantire che i fornitori di terze parti trattino e conservino le informazioni sensibili in modo sicuro.
 
-📋 Pianificazione e Esecuzione di un Audit SOC 2
+📋 Pianificazione e Esecuzione di un Audit SOC 2:
 I seguenti passi sono fondamentali per la preparazione e l'esecuzione di un audit SOC 2:
 1. Determinare l'ambito: Identificare i sistemi, i processi e le aree rilevanti per la sicurezza e privacy dei dati.
 2. Scegliere un auditor adeguato: Selezionare un revisore qualificato con esperienza nelle aziende finanziarie.
@@ -227,7 +227,7 @@ I seguenti passi sono fondamentali per la preparazione e l'esecuzione di un audi
 5. Eseguire l’audit: L’auditor esamina i controlli e li testa per valutarne l’efficacia.
 6. Ricevere il report: Al termine dell’audit, l’auditor fornisce un report con i risultati e le eventuali raccomandazioni.
    
-📊 Controlli generici nel report SOC 2
+📊 Controlli generici nel report SOC 2:
 Durante un audit SOC 2, verranno esaminati controlli generici come la sicurezza fisica, la sicurezza della rete, la crittografia dei dati, la gestione degli incidenti e la formazione dei dipendenti. Inoltre, sono previsti controlli specifici come la protezione dei dati in transito e la gestione degli incidenti.
 
 ![image](https://github.com/user-attachments/assets/5a15224d-8662-4b9c-8b34-48bd67b23d6c)
